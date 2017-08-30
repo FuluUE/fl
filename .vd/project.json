@@ -1,0 +1,62 @@
+{
+  "dir": "E:\\gitClone\\fl\\fl",
+  "dll": {
+    "name": "vendor",
+    "target": "var",
+    "content": [
+      "babel-polyfill",
+      "react",
+      "react-dom"
+    ]
+  },
+  "directory": {
+    "development": {
+      "envName": "src",
+      "component": "components",
+      "container": "containers",
+      "redux": "redux",
+      "store": "store",
+      "util": "utils",
+      "config": "configs",
+      "sprite": "sprite",
+      "style": "less",
+      "data": "json",
+      "test": "test",
+      "document": "doc"
+    },
+    "build": {
+      "envName": ".build"
+    },
+    "production": {
+      "envName": "dist",
+      "resource": "resources",
+      "dll": "dll",
+      "javascript": "js",
+      "style": "css",
+      "asset": "images"
+    }
+  },
+  "id": "b9a6dee0-8d5f-11e7-9434-6fcda4ebf5a2",
+  "type": "library",
+  "name": "fl",
+  "productName": "前端通用解决方案",
+  "description": "福禄网络 - 前端通用解决方案",
+  "version": "1.0.0-beta.1",
+  "compatibility": {
+    "chrome": "latest",
+    "firefox": "latest",
+    "safari": "latest",
+    "ie": "8+"
+  },
+  "PM": "尹传武",
+  "UI": "-",
+  "FE": "UED",
+  "BE": "-",
+  "TE": "UED",
+  "NE": "尹传武",
+  "uiSvnAddress": "-",
+  "feSvnAddress": "https://github.com/FuluUE/fl.git",
+  "debugAddress": "-",
+  "prereleaseAddress": "-",
+  "releaseAddress": "-"
+}
