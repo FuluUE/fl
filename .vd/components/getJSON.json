@@ -1,0 +1,18 @@
+{
+  "name": "getJSON",
+  "description": "获取异步 JSON 数据方法，基于 axios 封装，包括异常处理逻辑",
+  "version": "1.0.0-beta.1",
+  "compatibility": {
+    "chrome": "latest",
+    "firefox": "latest",
+    "safari": "latest",
+    "ie": "8+"
+  },
+  "module": [
+    "doc"
+  ],
+  "note": "",
+  "type": 0,
+  "lifecycle": [],
+  "author": "尹传武"
+}
