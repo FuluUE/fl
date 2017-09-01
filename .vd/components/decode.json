@@ -1,6 +1,6 @@
 {
-  "name": "getJSON",
-  "description": "获取异步 JSON 数据，基于 axios 封装，包括异常处理逻辑",
+  "name": "decode",
+  "description": "HTML 解码",
   "version": "1.0.0-beta.1",
   "compatibility": {
     "chrome": "latest",
